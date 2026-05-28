@@ -65,7 +65,7 @@ Snapdeal/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Dipeshagrwal/snapdeal-web-scraper.git
+git clone https://github.com/urvish-agrawal/Webscraping.git
 ```
 
 ## Navigate to Project Folder
